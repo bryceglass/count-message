@@ -1,4 +1,4 @@
-# Tenspeed Count Message
+# Count Message
 
 A small, dependency-free web component for displaying count-aware messages with named slots, optional accessibility announcements, visual update feedback, and English number words.
 
